@@ -1,2 +1,5 @@
 # Breast-Cancer-Detection
-Used a decision tree to identify malignant breast cancer tumors
+**Tools/Libraries :** Tensorflow,Keras,Numpy, Pandas, Seaborn ,Matplotlib, Scikitlearn, CNN
+**Data** : UCI ML Breast Cancer Wisconsin (Diagnostic) datasets has been used.
+**Accuracy**: 97.37%
+
